@@ -1,0 +1,42 @@
+<div class="defv2wordtype">Noun</div>
+<div class="defv2relatedwords">
+<ol class="topleveldefinition">
+<li><span class="tagstring">(<i>heading</i>)</span> Of time.</li>
+    <ol>
+    <li><span class="tagstring">(<i>now rare, archaic</i>)</span> <a rel="nofollow" href="/what-is/the-meaning-of-the-word/free_time.html">Free time</a>; <a rel="nofollow" href="/what-is/the-meaning-of-the-word/leisure.html">leisure</a>, <a rel="nofollow" href="/what-is/the-meaning-of-the-word/opportunity.html">opportunity</a>. [from 14th c.]</li>
+    <li>A specific (specified) period of <a rel="nofollow" href="/what-is/the-meaning-of-the-word/time.html">time</a>. [from 14th c.]</li>
+    <li>An undefined period of time (without qualifier, especially a short period); a while. [from 15th c.]</li>
+    </ol>
+  <li><span class="tagstring">(<i>heading</i>)</span> Unlimited or generalized physical extent.</li>
+    <ol>
+    <li><a rel="nofollow" href="/what-is/the-meaning-of-the-word/distance.html">Distance</a> between things. [from 14th c.]</li>
+    <li>Physical <a rel="nofollow" href="/what-is/the-meaning-of-the-word/extent.html">extent</a> across two or three dimensions; area, volume (sometimes <a rel="nofollow" href="/what-is/the-meaning-of-the-word/for.html">for</a> or to do something). [from 14th c.]</li>
+    <li>Physical <a rel="nofollow" href="/what-is/the-meaning-of-the-word/extent.html">extent</a> in all directions, seen as an attribute of the <a rel="nofollow" href="/what-is/the-meaning-of-the-word/universe.html">universe</a> (now usually considered as a part of <a rel="nofollow" href="/what-is/the-meaning-of-the-word/space-time.html">space-time</a>), or a mathematical model of this. [from 17th c.]</li>
+    <li>The near-<a rel="nofollow" href="/what-is/the-meaning-of-the-word/vacuum.html">vacuum</a> in which <a rel="nofollow" href="/what-is/the-meaning-of-the-word/planet.html">planets</a>, <a rel="nofollow" href="/what-is/the-meaning-of-the-word/star.html">stars</a> and other celestial objects are situated; the <a rel="nofollow" href="/what-is/the-meaning-of-the-word/universe.html">universe</a> beyond the earth's atmosphere. [from 17th c.]</li>
+    <li>The physical and psychological area one needs within which to live or operate; <a rel="nofollow" href="/what-is/the-meaning-of-the-word/personal.html">personal</a> <a rel="nofollow" href="/what-is/the-meaning-of-the-word/freedom.html">freedom</a>. [from 20th c.]</li>
+    </ol>
+  <li><span class="tagstring">(<i>heading</i>)</span> A bounded or specific physical extent.</li>
+    <ol>
+    <li>A (chiefly empty) area or volume with set <a rel="nofollow" href="/what-is/the-meaning-of-the-word/limit.html">limits</a> or <a rel="nofollow" href="/what-is/the-meaning-of-the-word/boundaries.html">boundaries</a>. [from 14th c.]</li>
+    <li><span class="tagstring">(<i>music</i>)</span> A position on the <a rel="nofollow" href="/what-is/the-meaning-of-the-word/staff.html">staff</a> or <a rel="nofollow" href="/what-is/the-meaning-of-the-word/stave.html">stave</a> bounded by lines. [from 15th c.]</li>
+    <li>A <a rel="nofollow" href="/what-is/the-meaning-of-the-word/gap.html">gap</a> in <a rel="nofollow" href="/what-is/the-meaning-of-the-word/text.html">text</a> between <a rel="nofollow" href="/what-is/the-meaning-of-the-word/word.html">words</a>, <a rel="nofollow" href="/what-is/the-meaning-of-the-word/line.html">lines</a> etc., or a digital character used to create such a gap. [from 16th c.]</li>
+    <li><span class="tagstring">(<i>letterpress typography</i>)</span> A piece of metal <a rel="nofollow" href="/what-is/the-meaning-of-the-word/type.html">type</a> used to separate <a rel="nofollow" href="/what-is/the-meaning-of-the-word/words.html">words</a>, <a rel="nofollow" href="/what-is/the-meaning-of-the-word/cast.html">cast</a> lower than other type so as not to take ink, especially one that is narrower than one <a rel="nofollow" href="/what-is/the-meaning-of-the-word/en.html">en</a> (compare <a rel="nofollow" href="/what-is/the-meaning-of-the-word/quad.html">quad</a>). [from 17th c.]</li>
+    <li>A <a rel="nofollow" href="/what-is/the-meaning-of-the-word/gap.html">gap</a>; an empty place. [from 17th c.]</li>
+    <li><span class="tagstring">(<i>geometry</i>)</span> A <a rel="nofollow" href="/what-is/the-meaning-of-the-word/set.html">set</a> of <a rel="nofollow" href="/what-is/the-meaning-of-the-word/point.html">points</a>, each of which is <a rel="nofollow" href="/what-is/the-meaning-of-the-word/unique.html">uniquely</a> specified by a number (the <a rel="nofollow" href="/what-is/the-meaning-of-the-word/dimensionality.html">dimensionality</a>) of <a rel="nofollow" href="/what-is/the-meaning-of-the-word/coordinate.html">coordinates</a>.</li>
+    <li><span class="tagstring">(<i>mathematics</i>)</span> A <a rel="nofollow" href="/what-is/the-meaning-of-the-word/generalized.html">generalized</a> <a rel="nofollow" href="/what-is/the-meaning-of-the-word/construct.html">construct</a> or <a rel="nofollow" href="/what-is/the-meaning-of-the-word/set.html">set</a> whose members have some property in common; typically there will be a geometric metaphor allowing these members to be viewed as "points". Often used with a restricting modifier describing the members (e.g. <a rel="nofollow" href="/what-is/the-meaning-of-the-word/vector_space.html">vector space</a>), or indicating the inventor of the construct (e.g. <a rel="nofollow" href="/what-is/the-meaning-of-the-word/Hilbert_space.html">Hilbert space</a>). [from 20th c.]</li>
+    <li><span class="tagstring">(<i>countable, figuratively</i>)</span> A <a rel="nofollow" href="/what-is/the-meaning-of-the-word/marketplace.html">marketplace</a> for goods or services.</li>
+    </ol>
+  </ol>
+</div>
+</div>
+<div class="defv2wordtype">Verb</div>
+<div class="defv2relatedwords">
+<ol class="topleveldefinition">
+<li><span class="tagstring">(<i>obsolete, intransitive</i>)</span> To <a rel="nofollow" href="/what-is/the-meaning-of-the-word/roam.html">roam</a>, <a rel="nofollow" href="/what-is/the-meaning-of-the-word/walk.html">walk</a>, <a rel="nofollow" href="/what-is/the-meaning-of-the-word/wander.html">wander</a>.</li>
+  <li><span class="tagstring">(<i>transitive</i>)</span> To set some distance apart.</li>
+  <li>To insert or utilise spaces in a written text.</li>
+  <li><span class="tagstring">(<i>transitive, science fiction</i>)</span> To <a rel="nofollow" href="/what-is/the-meaning-of-the-word/eject.html">eject</a> into <a rel="nofollow" href="/what-is/the-meaning-of-the-word/outer_space.html">outer space</a>, usually without a <a rel="nofollow" href="/what-is/the-meaning-of-the-word/space_suit.html">space suit</a>.</li>
+  <li><span class="tagstring">(<i>intransitive, science fiction</i>)</span> To travel into and through <a rel="nofollow" href="/what-is/the-meaning-of-the-word/outer_space.html">outer space</a>.</li>
+  </ol>
+</div>
+</div>
