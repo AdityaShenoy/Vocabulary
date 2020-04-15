@@ -103,28 +103,34 @@ def eng2hin(text: str):
   # Initialize empty result
   result = []
 
-  # Letter index currently observing
+  # Current start index
   i = 0
 
   # While there are letters to be scanned in the text
   while i < len(text):
 
-    # For all e2h mappings
-    for e, h in e2h:
+    # Greedy current end index
+    for j in range(len(text), i, -1):
 
-      # If the text startswith e at the current index i
-      if text.startswith(e, i):
+      # If the current sub string is in all_letters
+      if text[i:j] in all_letters:
 
-        # Append the h to result
-        result.append(h)
+        # Append the hindi translation
+        result.append(all_letters[text[i:j]])
 
-        # Increment the current index by length of e
-        i += len(e)
+        # Move the start index forwards
+        i += j-i
 
-        # Break the loop to start checking for all e2h mappings
         break
-  
-  # Return the string result
+    
+    # If there is no match
+    else:
+
+      # Append the letter as it is and increment the start index
+      result.append(text[i])
+      i += 1
+
+  # Return result
   return ''.join(result)
 
 # Testing section
