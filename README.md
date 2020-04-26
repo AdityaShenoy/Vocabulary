@@ -2,6 +2,8 @@
 
 A script that forms a well formatted WhatsApp message for vocabulary. This message is copied to the clipboard which can be sent to a Vocabulary group created among your friends.
 
+Current working version is version 3.
+
 The input to the script is 7 lines
 
 * **Example**
